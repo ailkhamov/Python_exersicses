@@ -40,4 +40,11 @@ crazy_x_partners.pop(1)  # removes based on index
 # Lists can have many data types
 hybrid_list = ['This is a string', 12, 66, 'Hello', [1,2,3], [1,2,2]]
 
-# Edit an entry
+# Tuples - Imutable lists - they do not change
+# syntax
+# my_tuple = ()
+
+my_tuple = (2, "Hello", 22, 'More value')
+print(my_tuple)
+print(type(my_tuple))
+

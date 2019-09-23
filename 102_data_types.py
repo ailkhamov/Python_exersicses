@@ -47,4 +47,4 @@ print(False == None)
 
 a = True
 b = False
-print(a and True)
+
