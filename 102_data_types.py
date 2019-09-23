@@ -31,3 +31,20 @@ print(variable1 > variable2)
 print(variable1< variable2)
 
 #Boolean Values
+# Defined by whether True or not
+print(type(True))
+print(0 == False)
+print(1 == True)
+
+# None
+print(None)
+print(type(None))
+print(bool(None))
+print(0 == None)
+print(False == None)
+
+# Logical AND & OR
+
+a = True
+b = False
+print(a and True)
