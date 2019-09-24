@@ -4,9 +4,9 @@
 # empty = {}
 
 hero = input("Enter your hero: ")
-start = input("Enter the start of the story: ")
-middle = input("Enter the middle of your story: ")
-end = input("Enter the end of your story: ")
+start = input("Enter your favourite fruit ")
+middle = input("Enter the your favourite country: ")
+end = input("Enter your p ")
 
 dictionary = {
     'Hero': hero,
@@ -17,7 +17,9 @@ dictionary = {
 
 # Print out the dictionary information in an ordered way so we can scan read the story.
 for key, values in dictionary.items():
-    print(key,values)
+    print(values)
+
+print(f'The hero of story is {}')
 
 # Prompt user for input for a story
 #     it should have: hero, beginning, middle, end

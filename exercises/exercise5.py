@@ -20,6 +20,8 @@ else:
     print(f'The age diffence between you and your mother is {age_difference}')
 
 # Store skills in a list.
+my_list = skill.split(" ")
+print(my_list)
 
 # Convert string to a list
 def Convert_to_string(string):
@@ -30,5 +32,5 @@ print(Convert_to_string(skill))
 
 # Print each skill in a formatted way (a little context text), appropriate string formatting
 # like lower case or upper case etc
-print(skill.upper())
+
 

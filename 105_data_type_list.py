@@ -48,3 +48,10 @@ my_tuple = (2, "Hello", 22, 'More value')
 print(my_tuple)
 print(type(my_tuple))
 
+#   # slicing
+print(crazy_x_partners[:1]) # 0 to 1 not inclusive
+print(crazy_x_partners[1:3]) # from 1 to 2, not inclusive of 2
+
+# Jumping/Slicing
+example_list = [0, 1, 2, 3, 5, 6, 7, 8, 9]
+print(example_list[::2])
