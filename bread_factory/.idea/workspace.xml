@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b33870f-51d5-4066-95cd-ae9bc366f8c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nunf_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/specs_naan_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_factory.py" afterDir="false" />
-    </list>
+    <list default="true" id="7b33870f-51d5-4066-95cd-ae9bc366f8c1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
